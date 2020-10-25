@@ -1,0 +1,111 @@
+body{
+  background-image: url('../resources/Ingles.png');
+  background-size: cover;
+  }
+  
+.red{
+  color: red !important;
+}
+.box-shadow-title{
+  box-shadow: 0 0 18px 6px black;
+  text-align: center;
+  background-color: #a4d8d2;
+  opacity: 0.9;
+  color: black;
+  
+}
+
+footer{
+  color: white;
+  background-color: #343a40;
+ 
+  width: 100%;
+  padding-top: 10px;
+  bottom: 0;
+  
+  }
+  .nav{
+    opacity: 0.89;
+   
+  }
+  .theory{
+    background-color: #a7d9d3;
+    opacity: 0.9;
+    box-shadow: 0 0 18px 6px black;
+  }
+  .contact-link{
+    display:inline-block;
+    width: 100%;
+    color: #333;
+  }
+.text-body{
+  width: auto;
+  text-align: center;
+}
+
+ /*Footer Social
+  .footer-social{
+    ul{
+      padding-left: 0;
+      li{
+        list-style: none;
+        float: left;
+        padding: 0 10px;
+        &:first-child{
+          padding-left: 0;
+        }
+        a{
+          font-size: 20px;
+          color: #333;
+          &:hover{
+            color: red;
+          }
+        }
+      }
+    }
+  }
+  
+  // opening hour
+  .opening-time{
+    padding-left:0;
+    li{
+      list-style: none;
+      span{
+        float:left;
+        padding-right: 10px;
+        .fa-times{
+          color: red;
+        }
+      }
+        strong{
+          color: red;
+        }
+    }
+  }
+  
+  // latest event
+  .media-body{
+    a{
+      color: #333;
+      &:hover{
+        color: red;
+      }
+    }
+    span{
+        color: #969696;
+      }
+  }
+  
+  // gallery image
+  .images-gellary{
+    ul{
+      padding-left: 0;
+      li{
+        list-style: none;
+        float: left;
+        margin: 0 3% 2% 0;
+        width: 31%;
+        position: relative;
+        &:nth-child(3n) {
+    margin: 0 0 1%;
+}*/
