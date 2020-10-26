@@ -1,49 +1,47 @@
-body{
-  background-image: url('../resources/Ingles.png');
+body {
+  background-image: url("../resources/Ingles.png");
   background-size: cover;
-  }
-  
-.red{
+  background-repeat: no-repeat;
+}
+
+.red {
   color: red !important;
 }
-.box-shadow-title{
+.box-shadow-title {
   box-shadow: 0 0 18px 6px black;
   text-align: center;
   background-color: #a4d8d2;
   opacity: 0.9;
   color: black;
-  
 }
 
-footer{
+footer {
   color: white;
   background-color: #343a40;
- 
+
   width: 100%;
   padding-top: 10px;
   bottom: 0;
-  
-  }
-  .nav{
-    opacity: 0.89;
-   
-  }
-  .theory{
-    background-color: #a7d9d3;
-    opacity: 0.9;
-    box-shadow: 0 0 18px 6px black;
-  }
-  .contact-link{
-    display:inline-block;
-    width: 100%;
-    color: #333;
-  }
-.text-body{
+}
+.nav {
+  opacity: 0.89;
+}
+.theory {
+  background-color: #a7d9d3;
+  opacity: 0.9;
+  box-shadow: 0 0 18px 6px black;
+}
+.contact-link {
+  display: inline-block;
+  width: 100%;
+  color: #333;
+}
+.text-body {
   width: auto;
   text-align: center;
 }
 
- /*Footer Social
+/*Footer Social
   .footer-social{
     ul{
       padding-left: 0;
